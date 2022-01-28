@@ -1,3 +1,3 @@
 import Danger 
 let danger = Danger()
-danger.message("Danger here!")
+danger.message("Danger here!!!")
